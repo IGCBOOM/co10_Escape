@@ -219,7 +219,7 @@
 			"sqm": "Sefrou-Ramal",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Bornholm",
@@ -296,7 +296,7 @@
 			"sqm": "IslaDuala3",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Isla Duala",
@@ -352,7 +352,7 @@
 			"sqm": "Takistan",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Takistan",
@@ -373,7 +373,7 @@
 			"sqm": "Zargabad",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Zargabad",
@@ -394,7 +394,7 @@
 			"sqm": "Porto",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Porto",
@@ -429,7 +429,7 @@
 			"sqm": "IsolaDiCapraia",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Capraia",
@@ -450,7 +450,7 @@
 			"sqm": "pja310",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Al Rayak",
@@ -471,7 +471,7 @@
 			"sqm": "Clafghan",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Clafghan",
@@ -492,7 +492,7 @@
 			"sqm": "Lythium",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Lythium",
@@ -513,7 +513,7 @@
 			"sqm": "Fallujah",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Fallujah",
@@ -534,7 +534,7 @@
 			"sqm": "Al Salman",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Al Salman",
@@ -555,7 +555,7 @@
 			"sqm": "Sahatra",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Sahatra",
@@ -583,7 +583,7 @@
 			"sqm": "Australia",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Everon",
@@ -1073,7 +1073,7 @@
 			"sqm": "DYA",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Diyala",
@@ -1388,7 +1388,7 @@
 			"sqm": "reshmaan",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Reshmaan",
@@ -1409,7 +1409,7 @@
 			"sqm": "tem_anizay",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Anizay",
@@ -1472,7 +1472,7 @@
 			"sqm": "Mutambara",
 			"mod" : "RHS d 3CB I",
 			"replace" : {},
-			"name" : "co10_Escape_RHS_US_vs_RU"
+			"name" : "co10_Escape_RHS_US_vs_RUI"
 		},
 		{
 			"island" : "Mutambara",

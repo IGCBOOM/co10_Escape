@@ -22,6 +22,26 @@
 				}
 		},
 		{
+			"name" : "RHS d 3CB I",
+			"path" : "./Mods/RHS d 3CB I/",
+			"require" : ["rhsusf_c_troops","rhs_c_troops","rhs_c_trucks","rhs_c_cars","rhs_c_a2port_car","rhs_c_a2port_air","rhs_c_btr"],
+			"replace" :
+				{
+					"MOD" : "RHS US vs RU+ISIS",
+					"PLAYERSIDE" : "WEST",
+					"PLAYERUNIT_1" : "rhsusf_army_ucp_teamleader",
+					"PLAYERUNIT_2" : "rhsusf_army_ucp_javelin",
+					"PLAYERUNIT_3" : "rhsusf_army_ucp_aa",
+					"PLAYERUNIT_4" : "rhsusf_army_ucp_engineer",
+					"PLAYERUNIT_5" : "rhsusf_army_ucp_grenadier",
+					"PLAYERUNIT_6" : "rhsusf_army_ucp_machinegunner",
+					"PLAYERUNIT_7" : "rhsusf_army_ucp_riflemanat",
+					"PLAYERUNIT_8" : "rhsusf_army_ucp_rifleman",
+					"PLAYERUNIT_9" : "rhsusf_army_ucp_marksman",
+					"PLAYERUNIT_10" : "rhsusf_army_ucp_medic"
+				}
+		},
+		{
 			"name" : "RHS d",
 			"path" : "./Mods/RHS d/",
 			"require" : ["rhsusf_c_troops","rhs_c_troops","rhs_c_trucks","rhs_c_cars","rhs_c_a2port_car","rhs_c_a2port_air","rhs_c_btr"],
@@ -195,6 +215,13 @@
 			"name" : "co10_Escape_RHS_US_vs_RU"
 		},
 		{
+			"island" : "Sefrou-Ramal",
+			"sqm": "Sefrou-Ramal",
+			"mod" : "RHS d 3CB I",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
 			"island" : "Bornholm",
 			"sqm": "Bornholm",
 			"mod" : "RHS w",
@@ -267,6 +294,13 @@
 		{
 			"island" : "Isla Duala",
 			"sqm": "IslaDuala3",
+			"mod" : "RHS d 3CB I",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Isla Duala",
+			"sqm": "IslaDuala3",
 			"mod" : "RHS-US d",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_RU_vs_US"
@@ -316,6 +350,13 @@
 		{
 			"island" : "Takistan",
 			"sqm": "Takistan",
+			"mod" : "RHS d 3CB I",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Takistan",
+			"sqm": "Takistan",
 			"mod" : "RHS-US d",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_RU_vs_US"
@@ -330,6 +371,13 @@
 		{
 			"island" : "Zargabad",
 			"sqm": "Zargabad",
+			"mod" : "RHS d 3CB I",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Zargabad",
+			"sqm": "Zargabad",
 			"mod" : "RHS-US d",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_RU_vs_US"
@@ -338,6 +386,13 @@
 			"island" : "Porto",
 			"sqm": "Porto",
 			"mod" : "RHS d",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Porto",
+			"sqm": "Porto",
+			"mod" : "RHS d 3CB I",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_US_vs_RU"
 		},
@@ -372,6 +427,13 @@
 		{
 			"island" : "Capraia",
 			"sqm": "IsolaDiCapraia",
+			"mod" : "RHS d 3CB I",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Capraia",
+			"sqm": "IsolaDiCapraia",
 			"mod" : "RHS-US d",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_RU_vs_US"
@@ -386,6 +448,13 @@
 		{
 			"island" : "Al Rayak",
 			"sqm": "pja310",
+			"mod" : "RHS d 3CB I",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Al Rayak",
+			"sqm": "pja310",
 			"mod" : "RHS-US d",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_RU_vs_US"
@@ -394,6 +463,13 @@
 			"island" : "Clafghan",
 			"sqm": "Clafghan",
 			"mod" : "RHS d",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Clafghan",
+			"sqm": "Clafghan",
+			"mod" : "RHS d 3CB I",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_US_vs_RU"
 		},
@@ -408,6 +484,13 @@
 			"island" : "Lythium",
 			"sqm": "Lythium",
 			"mod" : "RHS d",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Lythium",
+			"sqm": "Lythium",
+			"mod" : "RHS d 3CB I",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_US_vs_RU"
 		},
@@ -422,6 +505,13 @@
 			"island" : "Fallujah",
 			"sqm": "Fallujah",
 			"mod" : "RHS d",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Fallujah",
+			"sqm": "Fallujah",
+			"mod" : "RHS d 3CB I",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_US_vs_RU"
 		},
@@ -436,6 +526,13 @@
 			"island" : "Al Salman",
 			"sqm": "Al Salman",
 			"mod" : "RHS d",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Al Salman",
+			"sqm": "Al Salman",
+			"mod" : "RHS d 3CB I",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_US_vs_RU"
 		},
@@ -450,6 +547,13 @@
 			"island" : "Sahatra",
 			"sqm": "Sahatra",
 			"mod" : "RHS d",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Sahatra",
+			"sqm": "Sahatra",
+			"mod" : "RHS d 3CB I",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_US_vs_RU"
 		},
@@ -471,6 +575,13 @@
 			"island" : "Australia",
 			"sqm": "Australia",
 			"mod" : "RHS d",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Australia",
+			"sqm": "Australia",
+			"mod" : "RHS d 3CB I",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_US_vs_RU"
 		},
@@ -954,6 +1065,13 @@
 			"island" : "Diyala",
 			"sqm": "DYA",
 			"mod" : "RHS d",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Diyala",
+			"sqm": "DYA",
+			"mod" : "RHS d 3CB I",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_US_vs_RU"
 		},
@@ -1268,6 +1386,13 @@
 		{
 			"island" : "Reshmaan",
 			"sqm": "reshmaan",
+			"mod" : "RHS d 3CB I",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Reshmaan",
+			"sqm": "reshmaan",
 			"mod" : "RHS-US d",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_RU_vs_US"
@@ -1276,6 +1401,13 @@
 			"island" : "Anizay",
 			"sqm": "tem_anizay",
 			"mod" : "RHS d",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Anizay",
+			"sqm": "tem_anizay",
+			"mod" : "RHS d 3CB I",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_US_vs_RU"
 		},
@@ -1332,6 +1464,13 @@
 			"island" : "Mutambara",
 			"sqm": "Mutambara",
 			"mod" : "RHS d",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_US_vs_RU"
+		},
+		{
+			"island" : "Mutambara",
+			"sqm": "Mutambara",
+			"mod" : "RHS d 3CB I",
 			"replace" : {},
 			"name" : "co10_Escape_RHS_US_vs_RU"
 		},
@@ -1528,7 +1667,7 @@
 	"Addons" : [
 		{
 			"name" : "RHS",
-			"mods" : ["RHS w","RHS d","RHS mf","RHS-US w","RHS-US d","RHS-HIDF"]
+			"mods" : ["RHS w","RHS d","RHS d 3CB I","RHS mf","RHS-US w","RHS-US d","RHS-HIDF"]
 		}
 	]
 	

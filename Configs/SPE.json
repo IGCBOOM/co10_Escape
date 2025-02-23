@@ -73,6 +73,16 @@
 				"ISLAND" : "Hürtgenwald",
 				"ISLANDNAME" : "Hürtgenwald"
 				}
+		},
+		{
+			"name" : "UtahBeach",
+			"class" : "spex_utah_beach",
+			"path" : "./Islands/UtahBeach/",
+			"replace" :
+				{
+				"ISLAND" : "Utah Beach",
+				"ISLANDNAME" : "Utah Beach"
+				}
 		}
 	],
 	"Missions" : [
@@ -98,6 +108,13 @@
 			"name" : "co10_Escape_SPE_US_vs_GER"
 		},
 		{
+			"island" : "UtahBeach",
+			"sqm": "UtahBeach",
+			"mod" : "SPE_USvsGER",
+			"replace" : {},
+			"name" : "co10_Escape_SPE_US_vs_GER"
+		},
+		{
 			"island" : "Altis",
 			"sqm": "Altis",
 			"mod" : "SPE_USvsGER",
@@ -560,6 +577,13 @@
 			"name" : "co10_Escape_SPE_GER_vs_US"
 		},
 		{
+			"island" : "UtahBeach",
+			"sqm": "UtahBeach",
+			"mod" : "SPE_GERvsUS",
+			"replace" : {},
+			"name" : "co10_Escape_SPE_GER_vs_US"
+		},
+		{
 			"island" : "Altis",
 			"sqm": "Altis",
 			"mod" : "SPE_GERvsUS",
@@ -1041,6 +1065,34 @@
 			"mod": "SPE_GERvsUS",
 			"replace": {},
 			"name": "co10_Escape_SPE_US_vs_GER"
+		},
+		{
+			"island": "Mehland",
+			"sqm": "Mehland",
+			"mod": "SPE_GERvsUS",
+			"replace": {},
+			"name": "co10_Escape_SPE_US_vs_GER"
+		},
+		{
+			"island": "Mehland",
+			"sqm": "Mehland",
+			"mod": "SPE_GERvsUS",
+			"replace": {},
+			"name": "co10_Escape_SPE_GER_vs_US"
+		},
+		{
+			"island": "Stubbhult",
+			"sqm": "Stubbhult",
+			"mod": "SPE_GERvsUS",
+			"replace": {},
+			"name": "co10_Escape_SPE_US_vs_GER"
+		},
+		{
+			"island": "Stubbhult",
+			"sqm": "Stubbhult",
+			"mod": "SPE_GERvsUS",
+			"replace": {},
+			"name": "co10_Escape_SPE_GER_vs_US"
 		}
 	],
 	"Addons" : [

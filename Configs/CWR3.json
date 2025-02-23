@@ -610,6 +610,13 @@
 			"name" : "co10_Escape_CWR3_SOV_vs_US"
 		},
 		{
+			"island" : "Lybor Winter",
+			"sqm": "Lybor",
+			"mod" : "CWR3-US",
+			"replace" : {},
+			"name" : "co10_Escape_CWR3_SOV_vs_US"
+		},
+		{
 			"island" : "Fjord",
 			"sqm": "Fjord",
 			"mod" : "CWR3-US",
@@ -1632,6 +1639,13 @@
 			"name" : "co10_Escape_CWR3_US_vs_SOV"
 		},
 		{
+			"island" : "Lybor Winter",
+			"sqm": "Lybor",
+			"mod" : "CWR3-SOV",
+			"replace" : {},
+			"name" : "co10_Escape_CWR3_US_vs_SOV"
+		},
+		{
 			"island" : "Fjord",
 			"sqm": "Fjord",
 			"mod" : "CWR3-SOV",
@@ -1742,6 +1756,27 @@
 			"mod" : "CWR3-SOV",
 			"replace" : {},
 			"name" : "co10_Escape_CWR3_US_vs_SOV"
+		},
+		{
+			"island" : "Stubbhult",
+			"sqm": "Stubbhult",
+			"mod" : "CWR3-SOV",
+			"replace" : {},
+			"name" : "co10_Escape_CWR3_US_vs_SOV"
+		},
+		{
+			"island" : "Stubbhult",
+			"sqm": "Stubbhult",
+			"mod" : "CWR3-US",
+			"replace" : {},
+			"name" : "co10_Escape_CWR3_SOV_vs_US"
+		},
+		{
+			"island" : "Stubbhult",
+			"sqm": "Stubbhult",
+			"mod" : "CWR3-USMC",
+			"replace" : {},
+			"name" : "co10_Escape_CWR3_SOV_vs_USMC"
 		},
 		{
 			"island" : "Sefrou-Ramal",

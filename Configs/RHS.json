@@ -102,6 +102,26 @@
 				}
 		},
 		{
+			"name" : "RHS-CHD win",
+			"path" : "./Mods/RHS-CHD win/",
+			"require" : ["rhsusf_c_troops","rhs_c_troops","rhs_c_trucks","rhs_c_cars","rhs_c_a2port_car","rhs_c_a2port_air","rhs_c_btr"],
+			"replace" :
+				{
+					"MOD" : "RHS RU vs CHD+ION",
+					"PLAYERSIDE" : "EAST",
+					"PLAYERUNIT_1" : "rhs_vdv_flora_sergeant",
+					"PLAYERUNIT_2" : "rhs_vdv_flora_at",
+					"PLAYERUNIT_3" : "rhs_vdv_flora_aa",
+					"PLAYERUNIT_4" : "rhs_vdv_flora_engineer",
+					"PLAYERUNIT_5" : "rhs_vdv_flora_grenadier",
+					"PLAYERUNIT_6" : "rhs_vdv_flora_machinegunner",
+					"PLAYERUNIT_7" : "rhs_vdv_flora_LAT",
+					"PLAYERUNIT_8" : "rhs_vdv_flora_rifleman",
+					"PLAYERUNIT_9" : "rhs_vdv_flora_marksman",
+					"PLAYERUNIT_10" : "rhs_vdv_flora_medic"
+				}
+		},
+		{
 			"name" : "RHS-US d",
 			"path" : "./Mods/RHS-US d/",
 			"require" : ["rhsusf_c_troops","rhs_c_troops","rhs_c_trucks","rhs_c_cars","rhs_c_a2port_car","rhs_c_a2port_air","rhs_c_btr"],
@@ -915,6 +935,13 @@
 			"name" : "co10_Escape_RHS_RU_vs_US"
 		},
 		{
+			"island" : "Chernarus_Winter",
+			"sqm": "Chernarus_Winter",
+			"mod" : "RHS-CHD win",
+			"replace" : {},
+			"name" : "co10_Escape_RHS_RU_vs_CHD"
+		},
+		{
 			"island" : "Podagorsk",
 			"sqm": "FDF_Isle1_a",
 			"mod" : "RHS-US w",
@@ -1695,7 +1722,7 @@
 	"Addons" : [
 		{
 			"name" : "RHS",
-			"mods" : ["RHS w","RHS d","RHS d 3CB I","RHS mf","RHS-US w","RHS-US d","RHS-HIDF"]
+			"mods" : ["RHS w","RHS d","RHS d 3CB I","RHS mf","RHS-US w","RHS-US d","RHS-HIDF", "RHS-CHD win"]
 		}
 	]
 	

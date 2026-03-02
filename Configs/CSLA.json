@@ -549,6 +549,20 @@
 			"name" : "co10_Escape_CSLA_US_vs_CSLA_and_FIA"
 		},
 		{
+			"island" : "Archie",
+			"sqm": "archie",
+			"mod" : "CSLA CSLA",
+			"replace" : {},
+			"name" : "co10_Escape_CSLA_US_vs_CSLA_and_FIA"
+		},
+		{
+			"island" : "Archie Winter",
+			"sqm": "archie_w",
+			"mod" : "CSLA CSLA",
+			"replace" : {},
+			"name" : "co10_Escape_CSLA_US_vs_CSLA_and_FIA"
+		},
+		{
 			"island" : "Yulakia",
 			"sqm": "Yulakia",
 			"mod" : "CSLA CSLA",
@@ -1074,6 +1088,20 @@
 			"name" : "co10_Escape_CSLA_vs_US_and_FIA"
 		},
 		{
+			"island" : "Archie",
+			"sqm": "archie",
+			"mod" : "CSLA US",
+			"replace" : {},
+			"name" : "co10_Escape_CSLA_vs_US_and_FIA"
+		},
+		{
+			"island" : "Archie Winter",
+			"sqm": "archie_w",
+			"mod" : "CSLA US",
+			"replace" : {},
+			"name" : "co10_Escape_CSLA_vs_US_and_FIA"
+		},
+		{
 			"island" : "Yulakia",
 			"sqm": "Yulakia",
 			"mod" : "CSLA US",
@@ -1118,6 +1146,20 @@
 		{
 			"island" : "Stubbhult",
 			"sqm": "Stubbhult",
+			"mod" : "CSLA US",
+			"replace" : {},
+			"name" : "co10_Escape_CSLA_vs_US_and_FIA"
+		},
+		{
+			"island" : "Namalsk",
+			"sqm": "NamalskR",
+			"mod" : "CSLA CSLA",
+			"replace" : {},
+			"name" : "co10_Escape_CSLA_US_vs_CSLA_and_FIA"
+		},
+		{
+			"island" : "Namalsk",
+			"sqm": "NamalskR",
 			"mod" : "CSLA US",
 			"replace" : {},
 			"name" : "co10_Escape_CSLA_vs_US_and_FIA"
